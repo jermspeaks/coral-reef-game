@@ -4,7 +4,15 @@ A Science Hack Day SF 2015 hack.
 
 ## Introduction
 
-- [ ] Introductions of Coral Reefs
+Coral reefs are regarded as rainforests of the sea.
+They are a delicate ecosystem that must be preserved as they bring wonder and excitement.
+They are also habitat to species that make up our interconnected food chain.
+
+This board game is to help kids understand what impacts coral reefs and they can do about it.
+
+> "This much is certain: We have the power to damage the sea, but no sure way to heal the harm."
+
+> -- Dr. Sylvia Earle, "Sea Change: A Message of the Oceans"
 
 ### Game Details
 
