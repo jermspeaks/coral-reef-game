@@ -16,12 +16,14 @@ A Science Hack Day SF 2015 hack.
 
 ### Objective
 
-- [ ] In GENERAL terms, how is the game played?
-- [ ] In GENERAL terms, what is the objective of the game?
+Players will have to construct a healthy coral reef in order to combat natural or human-created events.
+At the start of each round, an event will occur and each player can play an action to counteract the effects of the event.
+The objective of the game is to have more color coral than white coral on your game board.
 
 ### Components
 
 - [ ] In GENERAL terms, what are the game pieces and what do they represent?
+There is one central gaming board.
 - [ ] What game specific vocabulary do players need to know?
 
 ### Set-up
