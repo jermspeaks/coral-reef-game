@@ -8,7 +8,7 @@ Coral reefs are regarded as rainforests of the sea.
 They are a delicate ecosystem that must be preserved as they bring wonder and excitement.
 They are also habitat to species that make up our interconnected food chain.
 
-This board game is to help kids understand what impacts coral reefs and they can do about it.
+This cooperative board game is to help kids understand what impacts coral reefs and they can do about it.
 
 > "This much is certain: We have the power to damage the sea, but no sure way to heal the harm."
 
@@ -24,7 +24,7 @@ This board game is to help kids understand what impacts coral reefs and they can
 
 ### Objective
 
-Players will have to construct a healthy coral reef in order to combat natural or human-created events.
+Players will play cooperatively to construct a healthy coral reef in order to combat natural or human-created events.
 At the start of each round, an event will occur and each player can play an action to counteract the effects of the event.
 The objective of the game is to have more color coral than white coral on your game board.
 
@@ -39,25 +39,35 @@ The action cards represents player behaviors that may harm or help the coral eco
 
 ### Set-up
 
-- [ ] How do you set-up the game board at the beginning of the game?
-Start with one blank board. Shuffle the event cards and color cards.
+Start with one blank board. Shuffle the event cards and color cards and place them faced down in their respective decks.
 
-- [ ] What components do each of the players need to start the game?
+Draw three action cards for each player.
+
+The person who was drawn to last plays first. The game will continue counter clockwise.
 
 ### Basic Game Structure
-- [ ] In what order does a turn/round/phase/etc. occur?
+
+Start the timer at 5 minutes. At the beginning of each round, reveal an event will occur and each player will have to play one action from their hand. At the end of each round, each player draws an action card to replenish their hand of three actions.
 
 ### Specific Game Structure
-- [ ] Step by step, what happens on a turn? Explain concepts as they occur during a turn.
-- [ ] Would it be helpful to give an example?
-- [ ] Are there any specials cases with circumstance specific rules?
+
+At the start of the round, reveal an event. Read the event to the group and follow the instructions on the card.
+For example, if the card says to add one white coral, place one white coral on the game board.
+
+After the event card has been played, each player will play an action starting with the player that was dealt last.
+That player will read the card to the group and follow the instructions on the card.
+For example, if the card says to add one color coral, place one color coral.
+
+If the card gives two options, the player must always pick the first option unless the player can not do that action.
+For example, if there are no white coral on the game board, and the card gives the first option to remove a white coral,
+the player must choose the second option, for example add one color coral.
 
 ### Ending the Game
-- [ ] How do you know when the game is over?
-- [ ] How do you know who won the game?
 
-### Appendix
-- [ ] Is there any extra information that would be helpful or fun for players to know even if it’s not necessarily a part of the rule system?
+The game ends when the timer runs out. Tally the number of white and color coral.
+Take the number of color coral and subtract that from the white coral. If the number is positive, your team wins. If it is negative, your team loses.
+
+In the event there are no coral on the board, your team loses.
 
 ## Teammates
 
