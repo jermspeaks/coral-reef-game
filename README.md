@@ -1,4 +1,4 @@
-# Coral Reef Game
+# iSea Life
 
 A Science Hack Day SF 2015 hack.
 
@@ -22,13 +22,18 @@ The objective of the game is to have more color coral than white coral on your g
 
 ### Components
 
-- [ ] In GENERAL terms, what are the game pieces and what do they represent?
-There is one central gaming board.
-- [ ] What game specific vocabulary do players need to know?
+There is one central gaming board, a cluster of white coral and colorful coral, and a deck of event and action cards.
+The gaming board represents the coral reef ecosystem.
+The white coral represents dead coral.
+The colorful coral represents living coral.
+The event cards represents random events that may harm or help the coral ecosystem.
+The action cards represents player behaviors that may harm or help the coral ecosystem.
 
 ### Set-up
 
 - [ ] How do you set-up the game board at the beginning of the game?
+Start with one blank board. Shuffle the event cards and color cards.
+
 - [ ] What components do each of the players need to start the game?
 
 ### Basic Game Structure
