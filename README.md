@@ -26,7 +26,23 @@ A Science Hack Day SF 2015 hack.
 
 ### Set-up
 
-###
+- [ ] How do you set-up the game board at the beginning of the game?
+- [ ] What components do each of the players need to start the game?
+
+### Basic Game Structure
+- [ ] In what order does a turn/round/phase/etc. occur?
+
+### Specific Game Structure
+- [ ] Step by step, what happens on a turn? Explain concepts as they occur during a turn.
+- [ ] Would it be helpful to give an example?
+- [ ] Are there any specials cases with circumstance specific rules?
+
+### Ending the Game
+- [ ] How do you know when the game is over?
+- [ ] How do you know who won the game?
+
+### Appendix
+- [ ] Is there any extra information that would be helpful or fun for players to know even if it’s not necessarily a part of the rule system?
 
 ## Teammates
 
