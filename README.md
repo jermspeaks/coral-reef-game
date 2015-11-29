@@ -1,4 +1,4 @@
-# iSea Life
+# Save The Coral Reef
 
 A Science Hack Day SF 2015 hack.
 
